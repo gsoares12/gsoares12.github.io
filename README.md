@@ -33,7 +33,7 @@ escaláveis.
 
 ## 📈 Stats do GitHub
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gsoares12)](https://github.com/gsoares12)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gsoares12&show_icons=true&theme=radical)
 ---
 
 ## 📫 Contato
